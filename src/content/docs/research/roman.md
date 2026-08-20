@@ -11,9 +11,9 @@ tableOfContents:
 
 ## Surveys
 
-[ROTAC Report](https://assets.science.nasa.gov/content/dam/science/missions/rst/science/ROTAC-Report-20250424-v3.pdf) (2025-04-24, includes <abbr title="Core Community Surveys">CCS</abbr> Definition Committee Reports)
+[ROTAC Report](https://assets.science.nasa.gov/content/dam/science/missions/rst/science/ROTAC-Report-20250424-v3.pdf) (2025-04-24, includes CCS Definition Committee Reports)
 
-[Cycle 1 Approved Programs](https://roman.ipac.caltech.edu/cycle1-approved-programs) (<abbr title="General Astrophysics Surveys">GAS</abbr> and Analysis)
+[Cycle 1 Approved Programs](https://roman.ipac.caltech.edu/cycle1-approved-programs) (GAS and Analysis)
 
 ## Wide-Field Instrument
 
@@ -25,7 +25,7 @@ tableOfContents:
 - [Designing the Observation Phase of the Nancy Grace Roman Space Telescope Coronagraph Instrument](https://drive.google.com/file/d/1XZub5iEusYDXqWzJFoTc0NnC4_RWVyh0/view)
 
 
-### [Journal of Astronomical Telescopes, Instruments, and Systems <abbr title="Coronagraph Instrument">CGI</abbr> Special Issue](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02)
+### [Journal of Astronomical Telescopes, Instruments, and Systems CGI Special Issue](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02)
 
 - [Demonstration of Roman Coronagraph Instrument Star Acquisition in Thermal Vacuum](https://arxiv.org/abs/2507.09059)
 
@@ -43,9 +43,33 @@ tableOfContents:
 
 - [Imaging Giant Planets in Reflected Light](https://romanschool2026.sciencesconf.org/data/pages/02_Roman_School_Context.pdf) (Science Context)
 
+- [Roman Coronagraph Science Cases](https://romanschool2026.sciencesconf.org/data/pages/03_Roman_School_Science_cases.pdf)
+
+- [Observation Planning with the CPP for the Roman Coronagraph](https://romanschool2026.sciencesconf.org/data/pages/04_Roman_School_Obs_planning_CPP.pdf)
+
+- [Science Commissioning and Calibrations](https://romanschool2026.sciencesconf.org/data/pages/05_Roman_School_Calibrations_commissioning.pdf)
+
+- [Roman Coronagraph Design](https://romanschool2026.sciencesconf.org/data/pages/06_Roman_School_Roman_coronagraph_design.pdf)
+
+- [Giant Exoplanet Atmospheres](https://romanschool2026.sciencesconf.org/data/pages/08_Roman_School_Atmospheres.pdf)
+
+- [Debris Disks (Theory)](https://romanschool2026.sciencesconf.org/data/pages/09_Roman_School_Debris_disks_theory.pdf)
+
+- [Debris Disks (Observations)](https://romanschool2026.sciencesconf.org/data/pages/10_Roman_School_Debris_disks_observations.pdf)
+
+- [Demography of Giant Exoplanets](https://romanschool2026.sciencesconf.org/data/pages/11_Roman_School_Demography.pdf)
+
+- [Project](https://romanschool2026.sciencesconf.org/data/pages/12_Roman_School_Project.pdf)
 
 
 
 [Roman Coronagraph Primer](https://docs.google.com/document/d/1T9aYqe4tgVOAr-Qrg6P-e_bKCa11PPqK0phuPlSe2hE/preview) (Google Doc)
 
 ## Servicing/Spacecraft Engineering
+
+## Acronyms/Definitions
+|Term|Definition|
+|----|----------|
+|CCS|Core Community Survey|
+|GAS|General Astrophysics Survey|
+|CPP|Coronagraph Participation Program|
