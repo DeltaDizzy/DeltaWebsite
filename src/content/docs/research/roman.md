@@ -17,6 +17,8 @@ tableOfContents:
 
 ## Wide-Field Instrument
 
+To be added
+
 ## Coronagraph Instrument
 
 ### [Coronagraph Participation Program and Reference Publications](https://www.romancoronagraph.space/pub)
@@ -66,6 +68,8 @@ tableOfContents:
 [Roman Coronagraph Primer](https://docs.google.com/document/d/1T9aYqe4tgVOAr-Qrg6P-e_bKCa11PPqK0phuPlSe2hE/preview) (Google Doc)
 
 ## Servicing/Spacecraft Engineering
+
+To be added
 
 ## Acronyms/Definitions
 |Term|Definition|
