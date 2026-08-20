@@ -1,7 +1,6 @@
 ---
 title: Emily's Archive
 description: My work and research archive
-template: splash
 tableOfContents: false
 next: false
 ---
