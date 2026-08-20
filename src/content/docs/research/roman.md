@@ -9,6 +9,8 @@ tableOfContents:
 ---
 [Return to Home](/)
 
+### [Roman Community Forum](https://asd.gsfc.nasa.gov/roman/comm_forum/)
+
 ## Surveys
 
 [ROTAC Report](https://assets.science.nasa.gov/content/dam/science/missions/rst/science/ROTAC-Report-20250424-v3.pdf) (2025-04-24, includes CCS Definition Committee Reports)
