@@ -19,13 +19,13 @@ tableOfContents:
 
 ## Coronagraph Instrument
 
-[Coronagraph Participation Program and Reference Publications](https://www.romancoronagraph.space/pub)
+### [Coronagraph Participation Program and Reference Publications](https://www.romancoronagraph.space/pub)
 
 - [CoronaGraph Instrument Reference stars for Exoplanets (CorGI-REx) I. Preliminary Vetting and Implications for the Roman Coronagraph and Habitable Worlds Observatory](https://iopscience.iop.org/article/10.3847/1538-3881/ae1d68)
 - [Designing the Observation Phase of the Nancy Grace Roman Space Telescope Coronagraph Instrument](https://drive.google.com/file/d/1XZub5iEusYDXqWzJFoTc0NnC4_RWVyh0/view)
 
 
-[Journal of Astronomical Telescopes, Instruments, and Systems <abbr title="Coronagraph Instrument">CGI</abbr> Special Issue](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02)
+### [Journal of Astronomical Telescopes, Instruments, and Systems <abbr title="Coronagraph Instrument">CGI</abbr> Special Issue](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02)
 
 - [Demonstration of Roman Coronagraph Instrument Star Acquisition in Thermal Vacuum](https://arxiv.org/abs/2507.09059)
 
@@ -36,6 +36,14 @@ tableOfContents:
 - [Coronagraph Instrument optical bench structure design and development](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02/021406/Coronagraph-Instrument-optical-bench-structure-design-and-development/10.1117/1.JATIS.11.2.021406.full)
 
 - [Contamination control program for the Roman Space Telescope Coronagraph Instrument](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02/021407/Contamination-control-program-for-the-Roman-Space-Telescope-Coronagraph-Instrument/10.1117/1.JATIS.11.2.021407.full)
+
+### [Roman Coronagraph School Europe 2026](https://romanschool2026.sciencesconf.org/resource/page/id/4)
+
+- [Introduction to Roman Coronagraph](https://romanschool2026.sciencesconf.org/data/pages/01_Roman_School_Introduction.pdf)
+
+- [Imaging Giant Planets in Reflected Light](https://romanschool2026.sciencesconf.org/data/pages/02_Roman_School_Context.pdf) (Science Context)
+
+
 
 
 [Roman Coronagraph Primer](https://docs.google.com/document/d/1T9aYqe4tgVOAr-Qrg6P-e_bKCa11PPqK0phuPlSe2hE/preview) (Google Doc)
