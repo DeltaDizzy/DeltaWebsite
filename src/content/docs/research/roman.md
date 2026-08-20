@@ -71,7 +71,11 @@ To be added
 
 ## Servicing/Spacecraft Engineering
 
-To be added
+- [Mission Design Strategies for Rendezvous and Servicing of Sun-Earth Libration Point Missions](https://ntrs.nasa.gov/citations/20240011375)
+
+- [Design Evolution of the Wide Field Infrared Survey Telescope using Astrophysics Focused Telescope Assets (WFIRST-AFTA) and Lessons Learned](https://ntrs.nasa.gov/api/citations/20150021048/downloads/20150021048.pdf)
+
+- [Designing for On-Orbit Servicing Capability](https://ntrs.nasa.gov/api/citations/20190031787/downloads/20190031787.pdf)
 
 ## Acronyms/Definitions
 |Term|Definition|
