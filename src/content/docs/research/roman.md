@@ -17,6 +17,10 @@ tableOfContents:
 
 [Cycle 1 Approved Programs](https://roman.ipac.caltech.edu/cycle1-approved-programs) (GAS and Analysis)
 
+[Studying Dark Energy With NASA's Roman Space Telescope](https://www.youtube.com/watch?v=z8FYcmhTO9w) (Video)
+
+[WFIRST-AFTA: Coronograph Technology Development](https://youtu.be/zkTHuqiH_1Y) (Video)
+
 ## Wide-Field Instrument
 
 To be added
