@@ -65,8 +65,6 @@ To be added
 
 - [Project](https://romanschool2026.sciencesconf.org/data/pages/12_Roman_School_Project.pdf)
 
-
-
 [Roman Coronagraph Primer](https://docs.google.com/document/d/1T9aYqe4tgVOAr-Qrg6P-e_bKCa11PPqK0phuPlSe2hE/preview) (Google Doc)
 
 ## Servicing/Spacecraft Engineering
