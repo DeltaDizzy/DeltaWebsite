@@ -1,8 +1,6 @@
 ---
 title: Roman Space Telescope
 description: Nancy Grace Roman Space Telescope
-prev: false
-next: false
 tableOfContents: 
     minHeadingLevel: 2
     maxHeadingLevel: 2
