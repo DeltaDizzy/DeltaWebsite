@@ -2,8 +2,8 @@
 title: Assessment/Analysis Groups
 description: NASA SMD Analysis/Assessment Groups are community-run committees that act as liasons between the science communities they represent and NASA HQ and programs. They each hold 1-4 annual meetings that are free to attend, are hybrid or virtual, and feature mission updates, science talks, updates from NASA leadership and program offices, and more.
 tableOfContents: 
-    minHeadingLevel: 3
-    maxHeadingLevel: 2
+    minHeadingLevel: 2
+    maxHeadingLevel: 3
 ---
 
 The AGs are grouped by the SMD Division they are generally associated with.
