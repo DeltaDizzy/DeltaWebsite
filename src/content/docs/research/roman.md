@@ -25,11 +25,15 @@ To be added
 
 ## Coronagraph Instrument
 
+### Roman Community Forum
+- [Coronagraph Instrument and CPP Overview](https://asd.gsfc.nasa.gov/roman/comm_forum/forum_20/Coronagraph_CPP_WPoverview2025.pdf)
+
 ### [Coronagraph Participation Program and Reference Publications](https://www.romancoronagraph.space/pub)
 
 - [CoronaGraph Instrument Reference stars for Exoplanets (CorGI-REx) I. Preliminary Vetting and Implications for the Roman Coronagraph and Habitable Worlds Observatory](https://iopscience.iop.org/article/10.3847/1538-3881/ae1d68)
 - [Designing the Observation Phase of the Nancy Grace Roman Space Telescope Coronagraph Instrument](https://drive.google.com/file/d/1XZub5iEusYDXqWzJFoTc0NnC4_RWVyh0/view)
 
+### [Coronagraph Participation Program Resources](https://www.romancoronagraph.space/resources)
 
 ### [Journal of Astronomical Telescopes, Instruments, and Systems CGI Special Issue](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-02)
 
