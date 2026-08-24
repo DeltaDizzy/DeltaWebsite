@@ -11,6 +11,7 @@ Hi there! My name is Emily and I like space exploration, theme parks, and progra
 
 Space Scout is a volunteer-run space news organisation that tackles the lesser-known stories from across the world of space exploration. My work there includes:
 
+- [Europe's Next Weather Satellite Ready to Fly](https://www.spacescout.info/2026/08/europes-next-weather-satellite-ready-to-fly/)
 - Ariane 6 Lightweight Upper Stage, Future Upgrades Cancelled
 - Op-Ed: Misuse of Commercial Programs Sets NASA Up for Failure
 - Flawless Second Artemis II Launch Rehearsal Shows Readiness, Despite Setbacks
@@ -27,7 +28,7 @@ Space Scout is a volunteer-run space news organisation that tackles the lesser-k
 - Starliner Mission Extended, All Systems Stable
 - Final GOES-R Satellite Ready to Fly
 - ESA and SpaceX Prepare to Launch EarthCARE
-- NOAA's Next-Gen COnstellation Moves Forward
+- NOAA's Next-Gen Constellation Moves Forward
 - Uranus Aerocapture: New Solutions for Old Problems
 - ILLUMA-T: Entering a New Age of Space Communications
 - Uranus Orbiter and Probe: 35 Years in the Making
@@ -37,4 +38,5 @@ Space Scout is a volunteer-run space news organisation that tackles the lesser-k
 Here are links to lists of sources I have found when researching articles, as much for my own reference as anything else!
 
 [Nancy Grace Roman Space Telescope](/research/roman)
-
+[Europa Clipper](/research/europaclipper/)
+[Assessment Groups](/research/ags)
