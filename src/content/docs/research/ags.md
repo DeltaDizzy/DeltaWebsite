@@ -14,4 +14,7 @@ The AGs are grouped by the SMD Division they are generally associated with.
     - [Zenodo Repository](https://zenodo.org/communities/mepag/records?q=&l=list&p=1&s=10&sort=newest)
     - [LPI Site (Old)](https://www.lpi.usra.edu/mepag)
 
+### VEXAG
+    - [2026 Meeting](https://www2.swri.org/vexag/default.htm)
+
 ## Astronomy/Astrophysics
