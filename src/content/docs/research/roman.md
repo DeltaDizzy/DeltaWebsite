@@ -73,6 +73,8 @@ To be added
 
 [Roman Coronagraph Primer](https://docs.google.com/document/d/1T9aYqe4tgVOAr-Qrg6P-e_bKCa11PPqK0phuPlSe2hE/preview) (Google Doc)
 
+[Pathways to Future Missions: The Roman Coronagraph Technology Demonstration](https://arxiv.org/pdf/2008.05624)
+
 ## Servicing/Spacecraft Engineering
 
 - [Mission Design Strategies for Rendezvous and Servicing of Sun-Earth Libration Point Missions](https://ntrs.nasa.gov/citations/20240011375)
