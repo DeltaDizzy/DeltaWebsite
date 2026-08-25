@@ -8,6 +8,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Emily\'s Archive',
+			logo: {
+				src: "./src/assets/logo.png"
+			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/DeltaDizzy/DeltaWebsite' },
 				{ icon: 'blueSky', label: 'Bluesky', href: 'https://bsky.app/profile/deltadizzy.bsky.social'}

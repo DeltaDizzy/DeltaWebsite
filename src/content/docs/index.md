@@ -37,8 +37,10 @@ Space Scout is a volunteer-run space news organisation that tackles the lesser-k
 
 Here are links to lists of sources I have found when researching articles, as much for my own reference as anything else!
 
-[Assessment Groups](/research/ags)
+[Assessment Groups](/research/ags/)
 
 [Europa Clipper](/research/europaclipper/)
 
-[Nancy Grace Roman Space Telescope](/research/roman)
+[James Webb Space Telescope](/research/jwst/)
+
+[Nancy Grace Roman Space Telescope](/research/roman/)
