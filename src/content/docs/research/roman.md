@@ -19,6 +19,8 @@ tableOfContents:
 
 [WFIRST-AFTA: Coronograph Technology Development](https://youtu.be/zkTHuqiH_1Y) (Video)
 
+[Microlensing Exoplanets](https://science.nasa.gov/mission/roman-space-telescope/microlensing/) (Kepler/Roman population chart)
+
 ## Wide-Field Instrument
 
 To be added
@@ -74,6 +76,8 @@ To be added
 [Roman Coronagraph Primer](https://docs.google.com/document/d/1T9aYqe4tgVOAr-Qrg6P-e_bKCa11PPqK0phuPlSe2hE/preview) (Google Doc)
 
 [Pathways to Future Missions: The Roman Coronagraph Technology Demonstration](https://arxiv.org/pdf/2008.05624)
+
+[IPAC Coronagraph Resources Page](https://roman.ipac.caltech.edu/page/cgi)
 
 ## Servicing/Spacecraft Engineering
 
