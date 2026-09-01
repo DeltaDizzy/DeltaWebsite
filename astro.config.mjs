@@ -17,7 +17,8 @@ export default defineConfig({
 			],
 			sidebar: [
 				{ label: 'Home', link: '/'},
-				{ label: 'Research', items: [{ autogenerate: { directory: 'research'} }] }
+				{ label: 'Research', items: [{ autogenerate: { directory: 'research' } }] },
+				{ label: 'Blog', items: [{ autogenerate: { directory: 'blog' } }] }
 			],
 		}),
 	],
